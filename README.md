@@ -9,6 +9,10 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 4. Compare the results obtained from both kernels.
 
 ## PROGRAM
+
+Program Developed By : Surendar N
+Register No : 212222040165
+
 ```cuda
 %%cu
 #include <cuda_runtime.h>
